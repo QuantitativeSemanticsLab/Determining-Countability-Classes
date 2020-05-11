@@ -15,16 +15,15 @@ def getDenumerator(depDict, index):
     for nm in numMod:
         if nm.hasIndex(index):
             dependent = nm.getDependent()
-            # advmodCheck = depListHasIndex(depDict.get('advmod', []), dependent.getIndex())
-            # detCheck = depListHasIndex(depDict.get('det', []), index)
-            # if advmodCheck != None:
-            #     dnums.append(advmodCheck.lower() + " " + dependent.getToken().lower())            
-            # elif detCheck != None:
-            #     dnums.append(detCheck.lower() + " " + dependent.getToken().lower())
-            # else:
-            #     dnums.append(dependent.getToken().lower())
+            advmodCheck = depListHasIndex(depDict.get('advmod', []), dependent.getIndex())
+            detCheck = depListHasIndex(depDict.get('det', []), index)
+            if advmodCheck != None:
+                dnums.append(advmodCheck.lower() + " " + dependent.getToken().lower())            
+            elif detCheck != None:
+                dnums.append(detCheck.lower() + " " + dependent.getToken().lower())
+            else:
+                dnums.append(dependent.getToken().lower())
 
-            #* looking at cases like "200 cats and 2 dogs" and "2 or 3 sheep" Not yet implemented
             compoundCheck = depListHasIndex(depDict.get('compound', []), dependent.getIndex())
             if compoundCheck != None:
                 dnums.append(compoundCheck + " " + dependent.getToken().lower())
@@ -34,20 +33,20 @@ def getDenumerator(depDict, index):
                 dnums.append(conjCheck + " " + dependent.getToken().lower())
 
     # amod check
-    # for a in amod:
-    #     if a.hasIndex(index):
-    #         dependentToken = a.getDependent().getToken().lower()
-    #         if dependentToken in adj: dnums.append(dependentToken)
+    for a in amod:
+        if a.hasIndex(index):
+            dependentToken = a.getDependent().getToken().lower()
+            if dependentToken in adj: dnums.append(dependentToken)
     # determiner check
-    # for d in det:
-    #     if d.hasIndex(index) and d.getSubType() == "qmod":
-    #         dependentToken = d.getDependent().getToken().lower()
-    #         dependentInx = d.getDependent().getIndex()
-    #         mwe = depDict.get("mwe", [])
-    #         for ex in mwe:
-    #             if ex.getHead().getIndex() == dependentInx:
-    #                 dependentToken += " " + ex.getDependent().getToken().lower()
-    #                 dnums.append(dependentToken)
+    for d in det:
+        if d.hasIndex(index) and d.getSubType() == "qmod":
+            dependentToken = d.getDependent().getToken().lower()
+            dependentInx = d.getDependent().getIndex()
+            mwe = depDict.get("mwe", [])
+            for ex in mwe:
+                if ex.getHead().getIndex() == dependentInx:
+                    dependentToken += " " + ex.getDependent().getToken().lower()
+                    dnums.append(dependentToken)
     return dnums   
 
 # returns a dictionary {denumerator: count}
@@ -69,7 +68,7 @@ def denumeratorAnalysis(outfileDir):
     return dnum
 
 if __name__ == "__main__":
-    oDir = "/Users/aeshaanwahlang/Documents/QuantitativeSemanticsData/test_outfiles/Allan/"
+    oDir = "[PATH TO COCA SUBSET]"
 
     d = denumeratorAnalysis(oDir)
     # with open('detQmods.json', 'w') as file:

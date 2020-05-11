@@ -30,8 +30,8 @@ def build(masterFilePath, beclPath):
      
 
 if __name__ == "__main__":
-    m = "/Users/aeshaanwahlang/Documents/QuantitativeSemanticsData/docs/masterFile_May2019.csv"
-    b = "/Users/aeshaanwahlang/Documents/QuantitativeSemanticsData/docs/BECL_2.1_master.csv"
+    m = "[PATH TO COCA]"
+    b = "[PATH TO BECL]"
 
     # build(m, b)
     print(os.path.dirname(os.path.realpath(__file__)))

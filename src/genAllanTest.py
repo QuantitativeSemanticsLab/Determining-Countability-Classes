@@ -79,16 +79,16 @@ def depListHasIndex(depList, index):
     return None
 
 #Fill dictionaries 
-with open("/Users/aeshaanwahlang/Documents/QuantitativeSemantics/Repo/AbstractNouns/PostProcessing/Countability/dnums_fuzzy.json", "r") as file:
+with open("../data/dnums_fuzzy.json", "r") as file:
     dnums_fuzzy = json.load(file)
 
-with open("/Users/aeshaanwahlang/Documents/QuantitativeSemantics/Repo/AbstractNouns/PostProcessing/Countability/dnums_other.json", "r") as file:
+with open("../data/dnums_other.json", "r") as file:
     dnums_other = json.load(file)
 
-with open("/Users/aeshaanwahlang/Documents/QuantitativeSemantics/Repo/AbstractNouns/PostProcessing/Countability/dnums_numbers.json", "r") as file:
+with open("../data/dnums_numbers.json", "r") as file:
     dnums_numbers = json.load(file)
 
-with open("/Users/aeshaanwahlang/Documents/QuantitativeSemantics/Repo/AbstractNouns/PostProcessing/Countability/non_dnums.json", "r") as file:
+with open("../data/non_dnums.json", "r") as file:
     non_dnums = json.load(file)
 
 #? confirm 'the' and 'that' with unit
@@ -210,10 +210,8 @@ def allanTest(denumeratorType, nounPlurality, relDict, nounIndex):
     
     
 if __name__ == '__main__':
-    # path = '/Volumes/AbstractNounsFiles/outFiles_Feb2019/outfiles_new_v3/'
-    # sDir = '/Volumes/AbstractNounsFiles/outFiles_Feb2019/AllenTest/'
-    path = '/Users/aeshaanwahlang/Documents/QuantitativeSemanticsData/test_outfiles/Allan/'
-    sDir = '/Users/aeshaanwahlang/Documents/QuantitativeSemanticsData/AllanTest/'
+    path = '[PATH TO COCA SUBSET'
+    sDir = '[PATH TO COCA SUBSET'
     files = os.listdir(path)
 
     # df = pd.read_csv(path+"materialOut.csv")
