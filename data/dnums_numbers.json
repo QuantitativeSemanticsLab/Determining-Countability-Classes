@@ -1,0 +1,2873 @@
+{
+    "five": {
+        "denumerator": "five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "four": {
+        "denumerator": "four",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "two": {
+        "denumerator": "two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "eight": {
+        "denumerator": "eight",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "three": {
+        "denumerator": "three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "seven": {
+        "denumerator": "seven",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "six": {
+        "denumerator": "six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "nine": {
+        "denumerator": "nine",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only three": {
+        "denumerator": "only three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "zero": {
+        "denumerator": "zero",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only six": {
+        "denumerator": "only six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "ten": {
+        "denumerator": "ten",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only two": {
+        "denumerator": "only two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only four": {
+        "denumerator": "only four",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only 3": {
+        "denumerator": "only 3",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "only 10": {
+        "denumerator": "only 10",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "only 2": {
+        "denumerator": "only 2",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "only seven": {
+        "denumerator": "only seven",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only five": {
+        "denumerator": "only five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only eight": {
+        "denumerator": "only eight",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "just three": {
+        "denumerator": "just three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "just two": {
+        "denumerator": "just two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "only 4": {
+        "denumerator": "only 4",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "only 5": {
+        "denumerator": "only 5",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "only 8": {
+        "denumerator": "only 8",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "38": {
+        "denumerator": "38",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "24": {
+        "denumerator": "24",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "13": {
+        "denumerator": "13",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "10": {
+        "denumerator": "10",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "11": {
+        "denumerator": "11",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "12": {
+        "denumerator": "12",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "18": {
+        "denumerator": "18",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "31": {
+        "denumerator": "31",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "22": {
+        "denumerator": "22",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "15": {
+        "denumerator": "15",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "48": {
+        "denumerator": "48",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "25": {
+        "denumerator": "25",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "16": {
+        "denumerator": "16",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "56": {
+        "denumerator": "56",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "71": {
+        "denumerator": "71",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "26": {
+        "denumerator": "26",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "28": {
+        "denumerator": "28",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "39": {
+        "denumerator": "39",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "35": {
+        "denumerator": "35",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "29": {
+        "denumerator": "29",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "17": {
+        "denumerator": "17",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "21": {
+        "denumerator": "21",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "91": {
+        "denumerator": "91",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "59": {
+        "denumerator": "59",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "53": {
+        "denumerator": "53",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "20": {
+        "denumerator": "20",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "79": {
+        "denumerator": "79",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "44": {
+        "denumerator": "44",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "19": {
+        "denumerator": "19",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "47": {
+        "denumerator": "47",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "75": {
+        "denumerator": "75",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "90": {
+        "denumerator": "90",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "65": {
+        "denumerator": "65",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "73": {
+        "denumerator": "73",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "46": {
+        "denumerator": "46",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "52": {
+        "denumerator": "52",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "87": {
+        "denumerator": "87",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "40": {
+        "denumerator": "40",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "51": {
+        "denumerator": "51",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "23": {
+        "denumerator": "23",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "14": {
+        "denumerator": "14",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "27": {
+        "denumerator": "27",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "81": {
+        "denumerator": "81",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "45": {
+        "denumerator": "45",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "30": {
+        "denumerator": "30",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "68": {
+        "denumerator": "68",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "32": {
+        "denumerator": "32",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "84": {
+        "denumerator": "84",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "80": {
+        "denumerator": "80",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "43": {
+        "denumerator": "43",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "64": {
+        "denumerator": "64",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "95": {
+        "denumerator": "95",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "50": {
+        "denumerator": "50",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "89": {
+        "denumerator": "89",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "97": {
+        "denumerator": "97",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "94": {
+        "denumerator": "94",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "70": {
+        "denumerator": "70",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "42": {
+        "denumerator": "42",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "34": {
+        "denumerator": "34",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "86": {
+        "denumerator": "86",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "55": {
+        "denumerator": "55",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "78": {
+        "denumerator": "78",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "41": {
+        "denumerator": "41",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "37": {
+        "denumerator": "37",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "33": {
+        "denumerator": "33",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "61": {
+        "denumerator": "61",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "54": {
+        "denumerator": "54",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "98": {
+        "denumerator": "98",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "99": {
+        "denumerator": "99",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "83": {
+        "denumerator": "83",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "96": {
+        "denumerator": "96",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "88": {
+        "denumerator": "88",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "60": {
+        "denumerator": "60",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "77": {
+        "denumerator": "77",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "36": {
+        "denumerator": "36",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "72": {
+        "denumerator": "72",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "76": {
+        "denumerator": "76",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "85": {
+        "denumerator": "85",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "57": {
+        "denumerator": "57",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "49": {
+        "denumerator": "49",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "67": {
+        "denumerator": "67",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "93": {
+        "denumerator": "93",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "62": {
+        "denumerator": "62",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "92": {
+        "denumerator": "92",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "63": {
+        "denumerator": "63",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "82": {
+        "denumerator": "82",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "66": {
+        "denumerator": "66",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "69": {
+        "denumerator": "69",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "74": {
+        "denumerator": "74",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "58": {
+        "denumerator": "58",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "fifteen": {
+        "denumerator": "fifteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirteen": {
+        "denumerator": "thirteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fourteen": {
+        "denumerator": "fourteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "eighteen": {
+        "denumerator": "eighteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twelve": {
+        "denumerator": "twelve",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "sixteen": {
+        "denumerator": "sixteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty": {
+        "denumerator": "twenty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty": {
+        "denumerator": "thirty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "seventeen": {
+        "denumerator": "seventeen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty": {
+        "denumerator": "fifty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty": {
+        "denumerator": "forty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "ninety-nine": {
+        "denumerator": "ninety-nine",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-four": {
+        "denumerator": "twenty-four",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "ninety": {
+        "denumerator": "ninety",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-five": {
+        "denumerator": "thirty-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-seven": {
+        "denumerator": "forty-seven",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-five": {
+        "denumerator": "twenty-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "seventy-five": {
+        "denumerator": "seventy-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "sixty": {
+        "denumerator": "sixty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "eighty": {
+        "denumerator": "eighty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-two": {
+        "denumerator": "twenty-two",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "seventy": {
+        "denumerator": "seventy",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "sixty-five": {
+        "denumerator": "sixty-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-four": {
+        "denumerator": "forty-four",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "eighty-five": {
+        "denumerator": "eighty-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty-five": {
+        "denumerator": "fifty-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-five": {
+        "denumerator": "forty-five",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-eight": {
+        "denumerator": "twenty-eight",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-two": {
+        "denumerator": "thirty-two",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-nine": {
+        "denumerator": "twenty-nine",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-three": {
+        "denumerator": "twenty-three",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-three": {
+        "denumerator": "thirty-three",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "only 20": {
+        "denumerator": "only 20",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "eleven": {
+        "denumerator": "eleven",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-one": {
+        "denumerator": "twenty-one",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty-two": {
+        "denumerator": "fifty-two",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-six": {
+        "denumerator": "forty-six",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-nine": {
+        "denumerator": "thirty-nine",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-seven": {
+        "denumerator": "twenty-seven",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty-seven": {
+        "denumerator": "fifty-seven",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-two": {
+        "denumerator": "forty-two",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-eight": {
+        "denumerator": "thirty-eight",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-seven": {
+        "denumerator": "thirty-seven",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "nineteen": {
+        "denumerator": "nineteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-six": {
+        "denumerator": "thirty-six",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty-one": {
+        "denumerator": "fifty-one",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "twenty-six": {
+        "denumerator": "twenty-six",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "sixty-four": {
+        "denumerator": "sixty-four",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-one": {
+        "denumerator": "thirty-one",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-three": {
+        "denumerator": "forty-three",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-one": {
+        "denumerator": "forty-one",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "thirty-four": {
+        "denumerator": "thirty-four",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-nine": {
+        "denumerator": "forty-nine",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty-six": {
+        "denumerator": "fifty-six",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "forty-eight": {
+        "denumerator": "forty-eight",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "only 15": {
+        "denumerator": "only 15",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "fifty-three": {
+        "denumerator": "fifty-three",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "fifty-four": {
+        "denumerator": "fifty-four",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "seventy-two": {
+        "denumerator": "seventy-two",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "255": {
+        "denumerator": "255",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "137": {
+        "denumerator": "137",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "150": {
+        "denumerator": "150",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "450": {
+        "denumerator": "450",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "800": {
+        "denumerator": "800",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "111": {
+        "denumerator": "111",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "106": {
+        "denumerator": "106",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "107": {
+        "denumerator": "107",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "147": {
+        "denumerator": "147",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "230": {
+        "denumerator": "230",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "249": {
+        "denumerator": "249",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "900": {
+        "denumerator": "900",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "200": {
+        "denumerator": "200",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "650": {
+        "denumerator": "650",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "300": {
+        "denumerator": "300",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "121": {
+        "denumerator": "121",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "191": {
+        "denumerator": "191",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "124": {
+        "denumerator": "124",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "160": {
+        "denumerator": "160",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "112": {
+        "denumerator": "112",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "260": {
+        "denumerator": "260",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "184": {
+        "denumerator": "184",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "110": {
+        "denumerator": "110",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "208": {
+        "denumerator": "208",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "120": {
+        "denumerator": "120",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "100": {
+        "denumerator": "100",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "185": {
+        "denumerator": "185",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "199": {
+        "denumerator": "199",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "280": {
+        "denumerator": "280",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "103": {
+        "denumerator": "103",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "159": {
+        "denumerator": "159",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "182": {
+        "denumerator": "182",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "116": {
+        "denumerator": "116",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "169": {
+        "denumerator": "169",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "115": {
+        "denumerator": "115",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "175": {
+        "denumerator": "175",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "256": {
+        "denumerator": "256",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "113": {
+        "denumerator": "113",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "529": {
+        "denumerator": "529",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "500": {
+        "denumerator": "500",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "401": {
+        "denumerator": "401",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "265": {
+        "denumerator": "265",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "240": {
+        "denumerator": "240",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "101": {
+        "denumerator": "101",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "188": {
+        "denumerator": "188",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "245": {
+        "denumerator": "245",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "270": {
+        "denumerator": "270",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "220": {
+        "denumerator": "220",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "136": {
+        "denumerator": "136",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "750": {
+        "denumerator": "750",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "190": {
+        "denumerator": "190",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "129": {
+        "denumerator": "129",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "320": {
+        "denumerator": "320",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "170": {
+        "denumerator": "170",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "700": {
+        "denumerator": "700",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "600": {
+        "denumerator": "600",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "135": {
+        "denumerator": "135",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "173": {
+        "denumerator": "173",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "250": {
+        "denumerator": "250",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "130": {
+        "denumerator": "130",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "400": {
+        "denumerator": "400",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "125": {
+        "denumerator": "125",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "105": {
+        "denumerator": "105",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "550": {
+        "denumerator": "550",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "340": {
+        "denumerator": "340",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "301": {
+        "denumerator": "301",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "140": {
+        "denumerator": "140",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "202": {
+        "denumerator": "202",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "157": {
+        "denumerator": "157",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "156": {
+        "denumerator": "156",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "223": {
+        "denumerator": "223",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "148": {
+        "denumerator": "148",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "165": {
+        "denumerator": "165",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "360": {
+        "denumerator": "360",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "168": {
+        "denumerator": "168",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "380": {
+        "denumerator": "380",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "134": {
+        "denumerator": "134",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "180": {
+        "denumerator": "180",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "178": {
+        "denumerator": "178",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "154": {
+        "denumerator": "154",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "212": {
+        "denumerator": "212",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "193": {
+        "denumerator": "193",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "139": {
+        "denumerator": "139",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "146": {
+        "denumerator": "146",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "192": {
+        "denumerator": "192",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "201": {
+        "denumerator": "201",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "350": {
+        "denumerator": "350",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "325": {
+        "denumerator": "325",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "235": {
+        "denumerator": "235",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "127": {
+        "denumerator": "127",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "145": {
+        "denumerator": "145",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "167": {
+        "denumerator": "167",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "224": {
+        "denumerator": "224",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "172": {
+        "denumerator": "172",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "161": {
+        "denumerator": "161",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "102": {
+        "denumerator": "102",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "122": {
+        "denumerator": "122",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "205": {
+        "denumerator": "205",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "155": {
+        "denumerator": "155",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "375": {
+        "denumerator": "375",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "108": {
+        "denumerator": "108",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "138": {
+        "denumerator": "138",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "365": {
+        "denumerator": "365",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "206": {
+        "denumerator": "206",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "132": {
+        "denumerator": "132",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "151": {
+        "denumerator": "151",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "153": {
+        "denumerator": "153",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "275": {
+        "denumerator": "275",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "123": {
+        "denumerator": "123",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "181": {
+        "denumerator": "181",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "186": {
+        "denumerator": "186",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "204": {
+        "denumerator": "204",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "171": {
+        "denumerator": "171",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "144": {
+        "denumerator": "144",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "126": {
+        "denumerator": "126",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "195": {
+        "denumerator": "195",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "196": {
+        "denumerator": "196",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "225": {
+        "denumerator": "225",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "174": {
+        "denumerator": "174",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "179": {
+        "denumerator": "179",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "141": {
+        "denumerator": "141",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "209": {
+        "denumerator": "209",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "149": {
+        "denumerator": "149",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "143": {
+        "denumerator": "143",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "117": {
+        "denumerator": "117",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "503": {
+        "denumerator": "503",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "210": {
+        "denumerator": "210",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "330": {
+        "denumerator": "330",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "114": {
+        "denumerator": "114",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "133": {
+        "denumerator": "133",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "610": {
+        "denumerator": "610",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "119": {
+        "denumerator": "119",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "310": {
+        "denumerator": "310",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "215": {
+        "denumerator": "215",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "232": {
+        "denumerator": "232",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "183": {
+        "denumerator": "183",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "189": {
+        "denumerator": "189",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "217": {
+        "denumerator": "217",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "109": {
+        "denumerator": "109",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "850": {
+        "denumerator": "850",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "177": {
+        "denumerator": "177",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "187": {
+        "denumerator": "187",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "194": {
+        "denumerator": "194",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "152": {
+        "denumerator": "152",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "214": {
+        "denumerator": "214",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "163": {
+        "denumerator": "163",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "176": {
+        "denumerator": "176",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "218": {
+        "denumerator": "218",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "142": {
+        "denumerator": "142",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "104": {
+        "denumerator": "104",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "290": {
+        "denumerator": "290",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "222": {
+        "denumerator": "222",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "288": {
+        "denumerator": "288",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "164": {
+        "denumerator": "164",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "197": {
+        "denumerator": "197",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "425": {
+        "denumerator": "425",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "207": {
+        "denumerator": "207",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "203": {
+        "denumerator": "203",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "228": {
+        "denumerator": "228",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "128": {
+        "denumerator": "128",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "118": {
+        "denumerator": "118",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "166": {
+        "denumerator": "166",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "198": {
+        "denumerator": "198",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "131": {
+        "denumerator": "131",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "227": {
+        "denumerator": "227",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "501": {
+        "denumerator": "501",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "162": {
+        "denumerator": "162",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "242": {
+        "denumerator": "242",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "158": {
+        "denumerator": "158",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "216": {
+        "denumerator": "216",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "211": {
+        "denumerator": "211",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "90,000": {
+        "denumerator": "90,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "70,000": {
+        "denumerator": "70,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "300,000": {
+        "denumerator": "300,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,100": {
+        "denumerator": "1,100",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "800,000": {
+        "denumerator": "800,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "250,000": {
+        "denumerator": "250,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,000": {
+        "denumerator": "1,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "2,200": {
+        "denumerator": "2,200",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "80,000": {
+        "denumerator": "80,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "200,000": {
+        "denumerator": "200,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "7,000": {
+        "denumerator": "7,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "3,000": {
+        "denumerator": "3,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1600": {
+        "denumerator": "1600",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,700": {
+        "denumerator": "1,700",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "6,000": {
+        "denumerator": "6,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,300": {
+        "denumerator": "1,300",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "30,000": {
+        "denumerator": "30,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "24,000": {
+        "denumerator": "24,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "14,000": {
+        "denumerator": "14,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,400": {
+        "denumerator": "1,400",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "5,000": {
+        "denumerator": "5,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "4,000": {
+        "denumerator": "4,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "12,000": {
+        "denumerator": "12,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "50,000": {
+        "denumerator": "50,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,500": {
+        "denumerator": "1,500",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "13,000": {
+        "denumerator": "13,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "400,000": {
+        "denumerator": "400,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "10,000": {
+        "denumerator": "10,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,800": {
+        "denumerator": "1,800",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "150,000": {
+        "denumerator": "150,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,600": {
+        "denumerator": "1,600",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1200": {
+        "denumerator": "1200",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "600,000": {
+        "denumerator": "600,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "75,000": {
+        "denumerator": "75,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "2,000": {
+        "denumerator": "2,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "17,000": {
+        "denumerator": "17,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "40,000": {
+        "denumerator": "40,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "15,000": {
+        "denumerator": "15,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "3,500": {
+        "denumerator": "3,500",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "9,000": {
+        "denumerator": "9,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "20,000": {
+        "denumerator": "20,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "500,000": {
+        "denumerator": "500,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "2,400": {
+        "denumerator": "2,400",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1,200": {
+        "denumerator": "1,200",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "25,000": {
+        "denumerator": "25,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "1500": {
+        "denumerator": "1500",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "7,500": {
+        "denumerator": "7,500",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "60,000": {
+        "denumerator": "60,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "2,500": {
+        "denumerator": "2,500",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "8,000": {
+        "denumerator": "8,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "18,000": {
+        "denumerator": "18,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "16,000": {
+        "denumerator": "16,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "11,000": {
+        "denumerator": "11,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "3000": {
+        "denumerator": "3000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "35,000": {
+        "denumerator": "35,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "45,000": {
+        "denumerator": "45,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "120,000": {
+        "denumerator": "120,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "700,000": {
+        "denumerator": "700,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "4,500": {
+        "denumerator": "4,500",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "5": {
+        "denumerator": "5",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "2": {
+        "denumerator": "2",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "3": {
+        "denumerator": "3",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "4": {
+        "denumerator": "4",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the seven": {
+        "denumerator": "the seven",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "9": {
+        "denumerator": "9",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "8": {
+        "denumerator": "8",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "6": {
+        "denumerator": "6",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "7": {
+        "denumerator": "7",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "0": {
+        "denumerator": "0",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 22": {
+        "denumerator": "the 22",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the four": {
+        "denumerator": "the four",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the six": {
+        "denumerator": "the six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 16": {
+        "denumerator": "the 16",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the five": {
+        "denumerator": "the five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "these five": {
+        "denumerator": "these five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "all three": {
+        "denumerator": "all three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the nine": {
+        "denumerator": "the nine",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the two": {
+        "denumerator": "the two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the three": {
+        "denumerator": "the three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 28": {
+        "denumerator": "the 28",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 29": {
+        "denumerator": "the 29",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 800": {
+        "denumerator": "the 800",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "these two": {
+        "denumerator": "these two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 10": {
+        "denumerator": "the 10",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the thirteen": {
+        "denumerator": "the thirteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "the 9": {
+        "denumerator": "the 9",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 8": {
+        "denumerator": "the 8",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 40": {
+        "denumerator": "the 40",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "all four": {
+        "denumerator": "all four",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "any two": {
+        "denumerator": "any two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the thousand": {
+        "denumerator": "the thousand",
+        "subtype": "number",
+        "magnitude": "huge"
+    },
+    "the 7": {
+        "denumerator": "the 7",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 6": {
+        "denumerator": "the 6",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "all eight": {
+        "denumerator": "all eight",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 15": {
+        "denumerator": "the 15",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 4": {
+        "denumerator": "the 4",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 17": {
+        "denumerator": "the 17",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the forty": {
+        "denumerator": "the forty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "a thousand": {
+        "denumerator": "a thousand",
+        "subtype": "number",
+        "magnitude": "huge"
+    },
+    "the 30": {
+        "denumerator": "the 30",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 2": {
+        "denumerator": "the 2",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "those four": {
+        "denumerator": "those four",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 20": {
+        "denumerator": "the 20",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the ten": {
+        "denumerator": "the ten",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "all nine": {
+        "denumerator": "all nine",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the eight": {
+        "denumerator": "the eight",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "these three": {
+        "denumerator": "these three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the fifty": {
+        "denumerator": "the fifty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "22,000": {
+        "denumerator": "22,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "an million": {
+        "denumerator": "an million",
+        "subtype": "number",
+        "magnitude": "huge"
+    },
+    "the fifteen": {
+        "denumerator": "the fifteen",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 200": {
+        "denumerator": "the 200",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "a 60": {
+        "denumerator": "a 60",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 13": {
+        "denumerator": "the 13",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the hundred": {
+        "denumerator": "the hundred",
+        "subtype": "number",
+        "magnitude": "large"
+    },
+    "1000": {
+        "denumerator": "1000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "the 5": {
+        "denumerator": "the 5",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 400": {
+        "denumerator": "the 400",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "the thirty": {
+        "denumerator": "the thirty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "the twenty": {
+        "denumerator": "the twenty",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "another two": {
+        "denumerator": "another two",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "quater": {
+        "denumerator": "quater",
+        "subtype": "number",
+        "magnitude": ""
+    },
+    "the 11": {
+        "denumerator": "the 11",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "every three": {
+        "denumerator": "every three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 12": {
+        "denumerator": "the 12",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 100": {
+        "denumerator": "the 100",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 500": {
+        "denumerator": "the 500",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "another 10": {
+        "denumerator": "another 10",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 48": {
+        "denumerator": "the 48",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 1,000": {
+        "denumerator": "the 1,000",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "those five": {
+        "denumerator": "those five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "440": {
+        "denumerator": "440",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "the 10,000": {
+        "denumerator": "the 10,000",
+        "subtype": "digits",
+        "magnitude": "huge"
+    },
+    "the 14": {
+        "denumerator": "the 14",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 18": {
+        "denumerator": "the 18",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 32": {
+        "denumerator": "the 32",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 90": {
+        "denumerator": "the 90",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 27": {
+        "denumerator": "the 27",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 150": {
+        "denumerator": "the 150",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "the 70": {
+        "denumerator": "the 70",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "these four": {
+        "denumerator": "these four",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "these six": {
+        "denumerator": "these six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 25": {
+        "denumerator": "the 25",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 35": {
+        "denumerator": "the 35",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the twelve": {
+        "denumerator": "the twelve",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "those three": {
+        "denumerator": "those three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 24": {
+        "denumerator": "the 24",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "all seven": {
+        "denumerator": "all seven",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 50": {
+        "denumerator": "the 50",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 3": {
+        "denumerator": "the 3",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "the 26": {
+        "denumerator": "the 26",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 80": {
+        "denumerator": "the 80",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 45": {
+        "denumerator": "the 45",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 300": {
+        "denumerator": "the 300",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "all five": {
+        "denumerator": "all five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "the 19": {
+        "denumerator": "the 19",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the eighteen": {
+        "denumerator": "the eighteen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "the 23": {
+        "denumerator": "the 23",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "the 75": {
+        "denumerator": "the 75",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "all six": {
+        "denumerator": "all six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "all 50": {
+        "denumerator": "all 50",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "another five": {
+        "denumerator": "another five",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "another three": {
+        "denumerator": "another three",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "another six": {
+        "denumerator": "another six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "every 30": {
+        "denumerator": "every 30",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "another ten": {
+        "denumerator": "another ten",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "every six": {
+        "denumerator": "every six",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+
+    "one of": {
+        "denumerator": "one of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "16 of": {
+        "denumerator": "16 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "11 of": {
+        "denumerator": "11 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "three of": {
+        "denumerator": "three of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "thousands of": {
+        "denumerator": "thousands of",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "hundreds of": {
+        "denumerator": "hundreds of",
+        "subtype": "plural numeral",
+        "magnitude": "large"
+    },
+    "two of": {
+        "denumerator": "two of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "dozens of": {
+        "denumerator": "dozens of",
+        "subtype": "plural numeral",
+        "magnitude": "medium"
+    },
+    "four of": {
+        "denumerator": "four of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "100 of": {
+        "denumerator": "100 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "8 of": {
+        "denumerator": "8 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "six of": {
+        "denumerator": "six of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "28 of": {
+        "denumerator": "28 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "500 of": {
+        "denumerator": "500 of",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "17 of": {
+        "denumerator": "17 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "14 of": {
+        "denumerator": "14 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "ten of": {
+        "denumerator": "ten of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "eight of": {
+        "denumerator": "eight of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "9 of": {
+        "denumerator": "9 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "seven of": {
+        "denumerator": "seven of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "40 of": {
+        "denumerator": "40 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "25 of": {
+        "denumerator": "25 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "48 of": {
+        "denumerator": "48 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "39 of": {
+        "denumerator": "39 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "26 of": {
+        "denumerator": "26 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "46 of": {
+        "denumerator": "46 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "31 of": {
+        "denumerator": "31 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "42 of": {
+        "denumerator": "42 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "60 of": {
+        "denumerator": "60 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "27 of": {
+        "denumerator": "27 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "50 of": {
+        "denumerator": "50 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "18 of": {
+        "denumerator": "18 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "38 of": {
+        "denumerator": "38 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "33 of": {
+        "denumerator": "33 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "19 of": {
+        "denumerator": "19 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "12 of": {
+        "denumerator": "12 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "4 of": {
+        "denumerator": "4 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "23 of": {
+        "denumerator": "23 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "24 of": {
+        "denumerator": "24 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "300 of": {
+        "denumerator": "300 of",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "35 of": {
+        "denumerator": "35 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "29 of": {
+        "denumerator": "29 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "15 of": {
+        "denumerator": "15 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "37 of": {
+        "denumerator": "37 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "200 of": {
+        "denumerator": "200 of",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "22 of": {
+        "denumerator": "22 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "250 of": {
+        "denumerator": "250 of",
+        "subtype": "digits",
+        "magnitude": "large"
+    },
+    "13 of": {
+        "denumerator": "13 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "32 of": {
+        "denumerator": "32 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "36 of": {
+        "denumerator": "36 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "6 of": {
+        "denumerator": "6 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "20 of": {
+        "denumerator": "20 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "nine of": {
+        "denumerator": "nine of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "5 of": {
+        "denumerator": "5 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "2 of": {
+        "denumerator": "2 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "10 of": {
+        "denumerator": "10 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "7 of": {
+        "denumerator": "7 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "1 of": {
+        "denumerator": "1 of",
+        "subtype": "one",
+        "magnitude": "small"
+    },
+    "3 of": {
+        "denumerator": "3 of",
+        "subtype": "digits",
+        "magnitude": "small"
+    },
+    "five of": {
+        "denumerator": "five of",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "30 of": {
+        "denumerator": "30 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    },
+    "21 of": {
+        "denumerator": "21 of",
+        "subtype": "digits",
+        "magnitude": "medium"
+    }
+}

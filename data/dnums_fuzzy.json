@@ -1,0 +1,893 @@
+{
+    "thousands": {
+        "denumerator": "thousands",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "hundreds": {
+        "denumerator": "hundreds",
+        "subtype": "plural numeral",
+        "magnitude": "large"
+    },
+    "dozens": {
+        "denumerator": "dozens",
+        "subtype": "plural numeral",
+        "magnitude": "medium"
+    },
+    "millions": {
+        "denumerator": "millions",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "billions": {
+        "denumerator": "billions",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "tens": {
+        "denumerator": "tens",
+        "subtype": "plural numeral",
+        "magnitude": "small"
+    },
+    "trillions": {
+        "denumerator": "trillions",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "nearly million": {
+        "denumerator": "nearly million",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "roughly million": {
+        "denumerator": "roughly million",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "over million": {
+        "denumerator": "over million",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "about 200": {
+        "denumerator": "about 200",
+        "subtype": "approximative",
+        "magnitude": "large"
+    },
+    "almost million": {
+        "denumerator": "almost million",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "about 20": {
+        "denumerator": "about 20",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 1,000": {
+        "denumerator": "about 1,000",
+        "subtype": "approximative",
+        "magnitude": "large"
+    },
+    "approximately 20": {
+        "denumerator": "approximately 20",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 60": {
+        "denumerator": "about 60",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "approximately 30": {
+        "denumerator": "approximately 30",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about million": {
+        "denumerator": "about million",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "approximately million": {
+        "denumerator": "approximately million",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "almost 20": {
+        "denumerator": "almost 20",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 15": {
+        "denumerator": "about 15",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly two": {
+        "denumerator": "nearly two",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly 50": {
+        "denumerator": "nearly 50",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 5,000": {
+        "denumerator": "about 5,000",
+        "subtype": "approximative",
+        "magnitude": "huge"
+    },
+    "nearly 30": {
+        "denumerator": "nearly 30",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly 10": {
+        "denumerator": "nearly 10",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly 200": {
+        "denumerator": "nearly 200",
+        "subtype": "approximative",
+        "magnitude": "large"
+    },
+    "nearly dozen": {
+        "denumerator": "nearly dozen",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly 100": {
+        "denumerator": "nearly 100",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 25": {
+        "denumerator": "about 25",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "approximately 10": {
+        "denumerator": "approximately 10",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "about 40": {
+        "denumerator": "about 40",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 70": {
+        "denumerator": "about 70",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 50": {
+        "denumerator": "about 50",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly five": {
+        "denumerator": "nearly five",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 30": {
+        "denumerator": "about 30",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly hundred": {
+        "denumerator": "nearly hundred",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 10": {
+        "denumerator": "about 10",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly 60": {
+        "denumerator": "nearly 60",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly 20": {
+        "denumerator": "nearly 20",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "nearly three": {
+        "denumerator": "nearly three",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly 40": {
+        "denumerator": "nearly 40",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "about 2": {
+        "denumerator": "about 2",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "about two": {
+        "denumerator": "about two",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "about six": {
+        "denumerator": "about six",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly four": {
+        "denumerator": "nearly four",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly six": {
+        "denumerator": "nearly six",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "about 4": {
+        "denumerator": "about 4",
+        "subtype": "approximative",
+        "magnitude": "small"
+    },
+    "nearly 80": {
+        "denumerator": "nearly 80",
+        "subtype": "approximative",
+        "magnitude": "medium"
+    },
+    "more 20,000": {
+        "denumerator": "more 20,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more million": {
+        "denumerator": "more million",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 4,000": {
+        "denumerator": "more 4,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 700": {
+        "denumerator": "more 700",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more 500": {
+        "denumerator": "more 500",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "less 1": {
+        "denumerator": "less 1",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "twice many": {
+        "denumerator": "twice many",
+        "subtype": "comparative",
+        "magnitude": ""
+    },
+    "more 10,000": {
+        "denumerator": "more 10,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 100,000": {
+        "denumerator": "more 100,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 25": {
+        "denumerator": "more 25",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "about five": {
+        "denumerator": "about five",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 100": {
+        "denumerator": "more 100",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "less one": {
+        "denumerator": "less one",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more dozen": {
+        "denumerator": "more dozen",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 50": {
+        "denumerator": "more 50",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "less five": {
+        "denumerator": "less five",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less 10": {
+        "denumerator": "less 10",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "some million": {
+        "denumerator": "some million",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more thousand": {
+        "denumerator": "more thousand",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 30,000": {
+        "denumerator": "more 30,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 2,000": {
+        "denumerator": "more 2,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more two": {
+        "denumerator": "more two",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 200": {
+        "denumerator": "more 200",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more 1,000": {
+        "denumerator": "more 1,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 20": {
+        "denumerator": "more 20",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 5": {
+        "denumerator": "more 5",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 300": {
+        "denumerator": "more 300",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more hundred": {
+        "denumerator": "more hundred",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more 800": {
+        "denumerator": "more 800",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more 250": {
+        "denumerator": "more 250",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more 60": {
+        "denumerator": "more 60",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "less 2": {
+        "denumerator": "less 2",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 10": {
+        "denumerator": "more 10",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 40": {
+        "denumerator": "more 40",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 2": {
+        "denumerator": "more 2",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 3,000": {
+        "denumerator": "more 3,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more three": {
+        "denumerator": "more three",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 1,500": {
+        "denumerator": "more 1,500",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 30": {
+        "denumerator": "more 30",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more seven": {
+        "denumerator": "more seven",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less 30": {
+        "denumerator": "less 30",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more billion": {
+        "denumerator": "more billion",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 150": {
+        "denumerator": "more 150",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more few": {
+        "denumerator": "more few",
+        "subtype": "comparative",
+        "magnitude": ""
+    },
+    "more 90": {
+        "denumerator": "more 90",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 400": {
+        "denumerator": "more 400",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more four": {
+        "denumerator": "more four",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "nearly 90": {
+        "denumerator": "nearly 90",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 600": {
+        "denumerator": "more 600",
+        "subtype": "comparative",
+        "magnitude": "large"
+    },
+    "more 12": {
+        "denumerator": "more 12",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 70": {
+        "denumerator": "more 70",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more six": {
+        "denumerator": "more six",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more 80": {
+        "denumerator": "more 80",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more five": {
+        "denumerator": "more five",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more fifty": {
+        "denumerator": "more fifty",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 15": {
+        "denumerator": "more 15",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 50,000": {
+        "denumerator": "more 50,000",
+        "subtype": "comparative",
+        "magnitude": "huge"
+    },
+    "more 35": {
+        "denumerator": "more 35",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more twenty": {
+        "denumerator": "more twenty",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more forty": {
+        "denumerator": "more forty",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more ten": {
+        "denumerator": "more ten",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less two": {
+        "denumerator": "less two",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "more thirty": {
+        "denumerator": "more thirty",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "more 3": {
+        "denumerator": "more 3",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less six": {
+        "denumerator": "less six",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less ten": {
+        "denumerator": "less ten",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less 20": {
+        "denumerator": "less 20",
+        "subtype": "comparative",
+        "magnitude": "medium"
+    },
+    "less three": {
+        "denumerator": "less three",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less 5": {
+        "denumerator": "less 5",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "less four": {
+        "denumerator": "less four",
+        "subtype": "comparative",
+        "magnitude": "small"
+    },
+    "several": {
+        "denumerator": "several",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "many": {
+        "denumerator": "many",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "few": {
+        "denumerator": "few",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "as many": {
+        "denumerator": "as many",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "fewer": {
+        "denumerator": "fewer",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "loads": {
+        "denumerator": "loads",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "just few": {
+        "denumerator": "just few",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "pairs": {
+        "denumerator": "pairs",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "so many": {
+        "denumerator": "so many",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "a few": {
+        "denumerator": "a few",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "a couple": {
+        "denumerator": "a couple",
+        "subtype": "imprecise quantifier",
+        "magnitude": ""
+    },
+    "a dozen": {
+        "denumerator": "a dozen",
+        "subtype": "imprecise quantifier",
+        "magnitude": "medium"
+    },
+    "dozen": {
+        "denumerator": "dozen",
+        "subtype": "imprecise quantifier",
+        "magnitude": "medium"
+    },
+    "several hundred": {
+        "denumerator": "several hundred",
+        "subtype": "imprecise modifiers",
+        "magnitude": "large"
+    },
+    "several thousand": {
+        "denumerator": "several thousand",
+        "subtype": "imprecise modifiers",
+        "magnitude": "large"
+    },
+    "several dozen": {
+        "denumerator": "several dozen",
+        "subtype": "imprecise modifiers",
+        "magnitude": "medium"
+    },
+    "hundred": {
+        "denumerator": "hundred",
+        "subtype": "round numbers",
+        "magnitude": "large"
+    },
+    "a hundred": {
+        "denumerator": "a hundred",
+        "subtype": "round numbers",
+        "magnitude": "large"
+    },
+    "only hundred": {
+        "denumerator": "only hundred",
+        "subtype": "round numbers",
+        "magnitude": "large"
+    },
+    "thousand": {
+        "denumerator": "thousand",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "million": {
+        "denumerator": "million",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "billion": {
+        "denumerator": "billion",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "a thousand": {
+        "denumerator": "a thousand",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "a million": {
+        "denumerator": "a million",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "a billion": {
+        "denumerator": "a billion",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "trillion": {
+        "denumerator": "trillion",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "100,000": {
+        "denumerator": "100,000",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "1000": {
+        "denumerator": "1000",
+        "subtype": "round numbers",
+        "magnitude": "huge"
+    },
+    "a hundred": {
+        "denumerator": "a hundred",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "a million": {
+        "denumerator": "a million",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "a thousand": {
+        "denumerator": "a thousand",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "half million": {
+        "denumerator": "half million",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "trillion": {
+        "denumerator": "trillion",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "some 30": {
+        "denumerator": "some 30",
+        "subtype": "round number",
+        "magnitude": "medium"
+    },
+    "a 20": {
+        "denumerator": "a 20",
+        "subtype": "round number",
+        "magnitude": "medium"
+    },
+    "a 100": {
+        "denumerator": "a 100",
+        "subtype": "round number",
+        "magnitude": "medium"
+    },
+    "the billion": {
+        "denumerator": "the billion",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "half dozen": {
+        "denumerator": "half dozen",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "a dozen": {
+        "denumerator": "a dozen",
+        "subtype": "number",
+        "magnitude": "medium"
+    },
+    "only few": {
+        "denumerator": "only few",
+        "subtype": "number",
+        "magnitude": "small"
+    },
+    "many of": {
+        "denumerator": "many of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "N/A"
+    },
+    "a couple": {
+        "denumerator": "a couple",
+        "subtype": "imprecise quantifier",
+        "magnitude": "small"
+    },
+    "a couple of": {
+        "denumerator": "a couple of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "small"
+    },
+    "a handful of": {
+        "denumerator": "a handful of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "small"
+    },
+    "several of": {
+        "denumerator": "several of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "small"
+    },
+    "millions of": {
+        "denumerator": "millions of",
+        "subtype": "pluaral numeral",
+        "magnitude": "huge"
+    },
+    "million of": {
+        "denumerator": "million of",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "thousand of": {
+        "denumerator": "thousand of",
+        "subtype": "round number",
+        "magnitude": "huge"
+    },
+    "billions of": {
+        "denumerator": "billions of",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "hundred of": {
+        "denumerator": "hundred of",
+        "subtype": "round number",
+        "magnitude": "medium"
+    },
+
+    "a number of": {
+        "denumerator": "a number of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "N/A"
+    },
+    "a multitude of": {
+        "denumerator": "a multitude of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "N/A"
+    },
+    "an number of": {
+        "denumerator": "an number of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "N/A"
+    },
+    "trillions of": {
+        "denumerator": "trillions of",
+        "subtype": "plural numeral",
+        "magnitude": "huge"
+    },
+    "tens of": {
+        "denumerator": "tens of",
+        "subtype": "plural numeral",
+        "magnitude": "medium"
+    },
+    "a array of": {
+        "denumerator": "a array of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "multitudes of": {
+        "denumerator": "multitudes of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "N/A"
+    },
+    "a dozen of": {
+        "denumerator": "a dozen of",
+        "subtype": "imprecise quantifier",
+        "magnitude": "medium"
+    },
+    "a dozen": {
+        "denumerator": "a dozen",
+        "subtype": "imprecise quantifier",
+        "magnitude": "medium"
+    }
+}

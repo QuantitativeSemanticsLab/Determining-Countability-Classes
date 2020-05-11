@@ -1,0 +1,398 @@
+{
+    "the": {
+        "denumerator": "the",
+        "subtype": "the",
+        "magnitude": ""
+    },
+    "what": {
+        "denumerator": "what",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "that": {
+        "denumerator": "that",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+      "this": {
+        "denumerator": "this",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "such": {
+        "denumerator": "such",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "which": {
+        "denumerator": "which",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "more the": {
+        "denumerator": "more the",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "thing": {
+        "denumerator": "thing",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "more a": {
+        "denumerator": "more a",
+        "subtype": "non denumerating quantifier",
+        "magnitude": ""
+    },
+    "half": {
+        "denumerator": "half",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "about much": {
+        "denumerator": "about much",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "less half": {
+        "denumerator": "less half",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "as much": {
+        "denumerator": "as much",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "twice much": {
+        "denumerator": "twice much",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "less": {
+        "denumerator": "less",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "nearly half": {
+        "denumerator": "nearly half",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "nothing": {
+        "denumerator": "nothing",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "just much": {
+        "denumerator": "just much",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "only half": {
+        "denumerator": "only half",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "a bit": {
+        "denumerator": "a bit",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "so much": {
+        "denumerator": "so much",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "more half": {
+        "denumerator": "more half",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "a half": {
+        "denumerator": "a half",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "more twice": {
+        "denumerator": "more twice",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "tons": {
+        "denumerator": "tons",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "mountains": {
+        "denumerator": "mountains",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "quarts": {
+        "denumerator": "quarts",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "milligrams": {
+        "denumerator": "milligrams",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "years": {
+        "denumerator": "years",
+        "subtype": "measure",
+        "magnitude": ""
+    },
+    "most": {
+        "denumerator": "most",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "some": {
+        "denumerator": "some",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "any": {
+        "denumerator": "any",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "whatever": {
+        "denumerator": "whatever",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "more": {
+        "denumerator": "more",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "almost all": {
+        "denumerator": "almost all",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "nearly all": {
+        "denumerator": "nearly all",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "so": {
+        "denumerator": "so",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "plenty": {
+        "denumerator": "plenty",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "more just": {
+        "denumerator": "more just",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "enough": {
+        "denumerator": "enough",
+        "subtype": "non quantificational",
+        "magnitude": ""
+    },
+    "a sort of": {
+        "denumerator": "a sort of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "some of": {
+        "denumerator": "some of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a lot": {
+        "denumerator": "a lot",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a lot of": {
+        "denumerator": "a lot of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "all of": {
+        "denumerator": "all of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a kind of": {
+        "denumerator": "a kind of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a type of": {
+        "denumerator": "a type of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a variety of": {
+        "denumerator": "a variety of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a range of": {
+        "denumerator": "a range of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a form of": {
+        "denumerator": "a form of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a ton of": {
+        "denumerator": "a ton of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "lots of": {
+        "denumerator": "lots of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a clutch of": {
+        "denumerator": "a clutch of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "plenty of": {
+        "denumerator": "plenty of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a series of": {
+        "denumerator": "a series of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a heap of": {
+        "denumerator": "a heap of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a bit of": {
+        "denumerator": "a bit of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a litany of": {
+        "denumerator": "a litany of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a slew of": {
+        "denumerator": "a slew of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a total of": {
+        "denumerator": "a total of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "loads of": {
+        "denumerator": "loads of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "an assortment of": {
+        "denumerator": "an assortment of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "an array of": {
+        "denumerator": "an array of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a spate of": {
+        "denumerator": "a spate of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a string of": {
+        "denumerator": "a string of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a version of": {
+        "denumerator": "a version of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a bunch of": {
+        "denumerator": "a bunch of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a plethora of": {
+        "denumerator": "a plethora of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "tons of": {
+        "denumerator": "tons of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a wave of": {
+        "denumerator": "a wave of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "an version of": {
+        "denumerator": "an version of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a assortment of": {
+        "denumerator": "a assortment of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a wad of": {
+        "denumerator": "a wad of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a mountain of": {
+        "denumerator": "a mountain of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a sheaf of": {
+        "denumerator": "a sheaf of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "an kind of": {
+        "denumerator": "an kind of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "mountains of": {
+        "denumerator": "mountains of",
+        "subtype": "non quantificational",
+        "magnitude": "N/A"
+    },
+    "a pair of": {
+        "denumerator": "a pair of",
+        "subtype": "pair",
+        "magnitude": "N/A"
+    },
+    "pairs of": {
+        "denumerator": "pairs of",
+        "subtype": "pair",
+        "magnitude": "N/A"
+    }
+
+}

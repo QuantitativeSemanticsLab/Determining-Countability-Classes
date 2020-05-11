@@ -1,0 +1,57 @@
+{
+    "each": {
+        "denumerator": "each",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "another": {
+        "denumerator": "another",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "every": {
+        "denumerator": "every",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "both": {
+        "denumerator": "both",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "neither": {
+        "denumerator": "neither",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "either": {
+        "denumerator": "either",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "both of": {
+        "denumerator": "both of",
+        "subtype": "precise quantifier",
+        "magnitude": "small"
+    },
+    "neither of": {
+        "denumerator": "neither of",
+        "subtype": "precise quantifier",
+        "magnitude": "N/A"
+    },
+    "everyone of": {
+        "denumerator": "everyone of",
+        "subtype": "precise quantifier",
+        "magnitude": "N/A"
+    },
+    "those": {
+        "denumerator": "those",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    },
+    "these": {
+        "denumerator": "these",
+        "subtype": "precise quantifier",
+        "magnitude": ""
+    }
+}
